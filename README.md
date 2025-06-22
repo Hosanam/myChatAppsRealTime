@@ -1,6 +1,6 @@
-## **Real-Time Chat Application**
-
 This is a full-stack real-time chat application built as a technical assessment for the.  It demonstrates core competencies in backend, frontend,
+
+## **Real-Time Chat Application**
 
   This project is a real-time chat application built with NestJS and Socket.IO for the backend, Prisma ORM for database management, PostgreSQL as the main database, and Redis to manage socket sessions and user states. The frontend is built using React, but it is not included here.
 
